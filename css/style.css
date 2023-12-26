@@ -1423,6 +1423,7 @@ textarea.input {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+    margin-top: 1.25rem;
   }
 
   .subscribe-form {
